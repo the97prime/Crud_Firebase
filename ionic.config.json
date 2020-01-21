@@ -1,0 +1,7 @@
+{
+  "name": "app-crud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
